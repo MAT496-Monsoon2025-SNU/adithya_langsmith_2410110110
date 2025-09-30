@@ -12,19 +12,20 @@ vid2:types of runs
 1.There are different types of code execution runs, such as streaming and normal (basic) calls,tool calling.
 2.purpose: Different run types can be used for different operations depending on the context and requirement.
 chhnages:askede"to name a new born baby"and tool calling made to perfrm xor operation.
-sourcecode:
-tweaked code:
+sourcecode:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1/module_1/types_of_runs.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1tweaked/types_of_runs.ipynb
 
 vid3:alterantive ways to trace
 1.There are alternative ways of tracing in LangSmith:Using @traceable decorator (default method),Wrapping a run tree Using trace() functionLearned when and how to apply each method effectively.
 2. Purpose:To understand what type of trace is suitable for different scenarios.
 chnages:asked "what does tracing with wraping explain?" and "what is run tree"
-source code:
-tweaked code:
+source code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1/module_1/alternative_tracing_methods.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1tweaked/alternative_tracing_methods.ipynb
+
 
 vid4:threads
 1. What I learned:Threads are a way to group multiple traces together.Useful when sending two (or more) related prompts so that the LLM understands the context between them.
 2. Purpose:To maintain connected conversation context across multiple related operations.
 chnages:"How can I add tags to a Trace?" and "How do I add metadata to a Trace?"
-source code:
-tweaked code:
+source code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1/module_1/conversational_threads.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_1tweaked/conversational_threads.ipynb
