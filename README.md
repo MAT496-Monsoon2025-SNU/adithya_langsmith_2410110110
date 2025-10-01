@@ -78,7 +78,7 @@ tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110
 vid6:Summary Evaluator
 concept:A summary evaluator assesses the quality and accuracy of generated summaries by comparing them against reference texts or evaluation metrics. 
 purpose:it measure how well the model captures the key information while maintaining coherence and relevance.
-Changes: No changes were made. I didn’t make any changes because doing so would have required altering many parts that I wasn’t fully clear about. However, I did understand the concept.
+Changes: No changes were made. I didn’t make any changes because doing so would have required altering many parts of the code that I wasn’t fully clear about. However, I did understand the concept.
 code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/tweaked_2/summary_evaluators.ipynb
 
 
