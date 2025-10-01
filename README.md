@@ -85,6 +85,3 @@ code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob
 
 
 
-Concept: Provides a high-level summary of evaluation metrics after analyzing lower-level results.
-Changes: No changes made.
-code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/module_2/module_2/summary_evaluators.ipynb
