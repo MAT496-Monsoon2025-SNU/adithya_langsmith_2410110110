@@ -20,3 +20,9 @@ learnt:i learnt how to integrate the playground with prompthub to create a new p
 changes:in this i created a new datset called "video game question" then created a promt in langsmith site and passed the promt ehich i saved it as updated__vid and asked multiple question questions. 
 sourcecode:https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_engineering_lifecycle.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/mod3/prompt_engineering_lifecycle.ipynb
+
+
+vid4:prompt_canvas
+vid4: prompt_canvas
+learnt:i learnt how to use the prompt canvas in langsmith to visually create, edit, and test prompts, add variables, and update them directly in the project without writing code.
+code_link:there is no code to edit.
