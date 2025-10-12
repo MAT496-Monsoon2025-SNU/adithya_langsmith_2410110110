@@ -14,3 +14,9 @@ learned:i learned about the prompt hub section, which helps us save prompts that
 changes: in the video he passed a pirate of 1600s, which i didn’t change, i only made it 1200s. the major changes while passing the prompt to langsmith were a fitness tutor and a maths helping agent which solves questions. these two were the major changes and then they ran the code.
 source code:https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_hub.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/mod3/prompt_hub.ipynb
+
+vid3: prompthub_eng
+learnt:i learnt how to integrate the playground with prompthub to create a new prompt from an existing one, update it, and apply it in the code.
+changes:in this i created a new datset called "video game question" then created a promt in langsmith site and passed the promt ehich i saved it as updated__vid and asked multiple question questions. 
+sourcecode:https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_engineering_lifecycle.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/mod3/prompt_engineering_lifecycle.ipynb
