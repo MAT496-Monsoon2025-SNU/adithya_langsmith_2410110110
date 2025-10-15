@@ -18,3 +18,9 @@ code:no code to modify.
 <img width="1604" height="727" alt="image" src="https://github.com/user-attachments/assets/3978c2dd-2b4d-4633-8a4e-916673c1a12a" />
 
 
+
+vid4:chain
+learnt: i learnt how to build a simple chain in langgraph that uses chat messages, chat models, binds tools to the llm, and executes tool calls in the graph.
+changes:eplaced the default tool-calling cell with a custom web_search tool that uses serper and tavily apis to search the web, and tested it by searching “ajitkumar shiv nadar university
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/chain.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/chain.ipynb
