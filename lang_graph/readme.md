@@ -43,4 +43,15 @@ tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110
 IMAGE IN LANGSMITH(ran through studio)
 <img width="1228" height="907" alt="image" src="https://github.com/user-attachments/assets/61a09557-31ee-40f2-abfb-2031724951d1" />
 
+vid7: agent-memory
+learnt: i learned that an agent normally does not remember the functions it executes. to make it remember, we add a checkpoint and use memory, so it can recall the function and run it. this makes it easier because we don’t have to repeat the task every time we need a change.
+changes: added a new tool called xor, then added new cells at the end where it calls the tools and updates the output, which is stored in memory, and performed a new arithmetic operation on a number to test whether it would get confused with the old value or operate only on the most recent one. the test was successful.(i thought it ould get confused quiet impressive)
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent-memory.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/agent-memory.ipynb
+
+
+
+
+
+
 
