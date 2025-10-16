@@ -50,8 +50,12 @@ source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/agent-memory.ipynb
 
 
-
-
+vid8:deployment
+learnt:i learned how to get output of the our input message dirrecty from grpah present at our local host.
+i could not deploy d=because deployment can be done when we are a part of paid plan but i tried it.
+changes:could not make any chnages as i could not deploy.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/deployment.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/deployment.ipynb
 
 
 
