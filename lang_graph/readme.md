@@ -24,3 +24,10 @@ learnt: i learnt how to build a simple chain in langgraph that uses chat message
 changes:eplaced the default tool-calling cell with a custom web_search tool that uses serper and tavily apis to search the web, and tested it by searching “ajitkumar shiv nadar university
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/chain.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/chain.ipynb
+
+
+vid5:router
+learnt: i learnt how a chat model decides its route based on our input.
+changes: added a new tool called xor, which contains multiply, and added a new route about shopping that tells us the prices of our desired product.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/router.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/router.ipynb
