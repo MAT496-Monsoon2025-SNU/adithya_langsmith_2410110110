@@ -28,6 +28,19 @@ tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110
 
 vid5:router
 learnt: i learnt how a chat model decides its route based on our input.
-changes: added a new tool called xor, which contains multiply, and added a new route about shopping that tells us the prices of our desired product.
+changes: added a new tool called xor, which contains multiply, and added a new route about shopping that tells us the prices of our desired product and cretaed cell for each path so we can compare the ouput.
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/router.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/router.ipynb
+IMAGE IN LANGSMIT(ran through studio)H 
+<img width="1153" height="664" alt="image" src="https://github.com/user-attachments/assets/b93fc0eb-698d-469f-a74e-c0130821780d" />
+
+
+vid6:agent
+learnt: i learnt how the output is affected when we feed the output of the tool to it again, and how it can be used in other calling.
+changes: added a new node "temp" which calculates the temperature from celsius to fahrenheit. this node calls the tool, and again the tool calls itself to calculate the temperature and create 2 cells to compare the output.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/agent.ipynb
+IMAGE IN LANGSMITH(ran through studio)
+<img width="1228" height="907" alt="image" src="https://github.com/user-attachments/assets/61a09557-31ee-40f2-abfb-2031724951d1" />
+
+
