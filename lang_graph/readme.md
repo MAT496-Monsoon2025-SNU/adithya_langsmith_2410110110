@@ -73,6 +73,12 @@ source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/state-reducers.ipynb
 
 
+vid3:multiple schemas
+learnt: learned how to use different input and output schemas for different nodes in langgraph and how internal state merges automatically
+changes:added hint node with a separate schema to modify notes and combined multiple node schemas to create a structured final output
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/multiple-schemas.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/multiple-schemas.ipynb
+
 
 
 
