@@ -58,4 +58,19 @@ source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-1
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/deployment.ipynb
 
 
+MODULE 2
+vid1:state-schema 
+learnt:learned about typeddict dataclass and pydantic for defining and validating structured data in python
+changes: added another node called comeback and made the occurrence of each variable equal probability
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/state-schema.ipynb
+
+
+
+
+
+
+
+
+
 
