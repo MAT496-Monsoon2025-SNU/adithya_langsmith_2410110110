@@ -80,6 +80,12 @@ source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/multiple-schemas.ipynb
 
 
+vid4:trim-filtering-messages
+learnt: learned how to make multiple messages pass through the model, add new messages, filter them, and reduce user input so that it becomes token-efficient.
+changes: added another node called chat_model1 to run two chat models in parallel, created a new cell to test filtering by removing the filtering node to observe if only the latest messages are processed, and added a new message with id 5 to check if the model executes only messages with ids 4 and 5.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
+teaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/trim-filter-messages.ipynb
+
 
 
 
