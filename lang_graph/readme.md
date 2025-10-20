@@ -59,13 +59,18 @@ tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110
 
 
 MODULE 2
+
 vid1:state-schema 
 learnt:learned about typeddict dataclass and pydantic for defining and validating structured data in python
 changes: added another node called comeback and made the occurrence of each variable equal probability
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/state-schema.ipynb
 
-
+vid2: state-reducers**
+learnt: learned about parallel execution of nodes and how to add, overwrite, or delete annotated keys in langgraph
+changes: added 3 new nodes in reducers to test if the same node can work on 2 different levels and how it stores values like node 5, also added a tag describing the output.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-reducers.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/state-reducers.ipynb
 
 
 
