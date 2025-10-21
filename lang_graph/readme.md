@@ -92,8 +92,9 @@ Changes: Modified the State schema by changing summary from str to int, and impl
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/multiple-schemas.ipynb
 
-
-
-
-
+vid6:chat-external-memo
+Learned: Learned how database-backed memory helps retain summaries and conversation context across sessions for better summarization. Without it, all conversation history is lost once the session ends.
+Changes: replaced filtering with trimming to test efficiency and see the difference from filtering, and updated threshold logic to use token counts for summarization.
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/chatbot-external-memory.ipynb
 
