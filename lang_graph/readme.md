@@ -98,3 +98,23 @@ Changes: replaced filtering with trimming to test efficiency and see the differe
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/chatbot-external-memory.ipynb
 
+
+
+
+
+MODULE 3
+
+
+
+vid1:streaming
+learned: i learned what streaming is how it works and the different methods like streaming updates and values i also learned how to stream input from a graph in langsmith
+
+changes: i added a new input for both updates and values to see how the output changes i also added a cell after the first execution of values it kept its previous output and then gave a new output which i did not expect i thought it would combine the three inputs but it did not.pic of that particular cell(i felt interesting)
+<img width="1307" height="809" alt="image" src="https://github.com/user-attachments/assets/e226a085-b4f4-40bc-b509-2fd26d471d85" />
+
+in streaming from a graph i changed the graph by adding a node called temperature which calculates temperature or simply works as a calculator
+tweakedcode:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/vid1/streaming-interruption.ipynb
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/streaming-interruption.ipynb
+new graph created by me in studio
+<img width="1515" height="1004" alt="image" src="https://github.com/user-attachments/assets/a59d0f22-bb39-43ab-9159-11a6a51481ea" />
+
