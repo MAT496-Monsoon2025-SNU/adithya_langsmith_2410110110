@@ -133,3 +133,23 @@ i also added a cell at the end and in the studio part i ran the temperature one 
 
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/breakpoints.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/vid2/breakpoints.ipynb
+
+
+
+vid3: edit-state-human-feedback
+
+learnt:
+i learnt that interrupt_before basically lets us rewrite or change the input before a node runs, so we can control the flow and modify what the agent will see. i also learnt how to give human feedback after a breakpoint, and how the checkpointer is used to save and restore graph state.
+
+changes:i added an interrupt_before in front of the tools node to observe what happens. i created a graph that includes interrupt_after for tools and executed it to compare behavior. i also added a new cell that runs the modified graph and explained what the cell does. i included the graph adn the cell image so it is to revie it ;).out of curiosity, in the studio, i created the temperature graph and added an interrupt_before to the assistant node and interrupt_after to both the tools and temperature nodes. i also added interrupt_before to the tools and temperature nodes to check all possible combinations and observe their behavior.
+<img width="340" height="350" alt="image" src="https://github.com/user-attachments/assets/d515aa3e-fe2b-4fe1-a924-c33e4beed305" />
+
+heres the pic of studio graph i added interrupts ith output.
+<img width="1479" height="978" alt="image" src="https://github.com/user-attachments/assets/5c9edc3a-4724-424d-bef0-142e59fe3445" />
+
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/edit-state-human-feedback.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/edit-state-human-feedback.ipynb
+
+
+
+
