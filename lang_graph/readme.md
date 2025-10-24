@@ -116,5 +116,17 @@ in streaming from a graph i changed the graph by adding a node called temperatur
 tweakedcode:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/vid1/streaming-interruption.ipynb
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/streaming-interruption.ipynb
 new graph created by me in studio
+
 <img width="1515" height="1004" alt="image" src="https://github.com/user-attachments/assets/a59d0f22-bb39-43ab-9159-11a6a51481ea" />
 
+
+
+
+video 2: breaking point
+
+learnt:i learnt how a breaking point works and how we can use it. i also learnt how to add a new tool, how to add the breaking point to it, and how to use the breaking point from the studio manually using the code.
+changes made:i added new logical tools which show true or false. i shifted the breaking point to these new tools named logical tools.
+i added a new cell in the middle to show that the arithmetic tools run but the logical ones do not run until we manually make them run.
+i also added a cell at the end and in the studio part i ran the temperature one and asked the question to the llm, one directly to the assistant tool and one to the temperature tool.he follwing pic of the studio is below 
+
+<img width="1507" height="978" alt="image" src="https://github.com/user-attachments/assets/b349500c-6a40-46ec-bf6a-c6c370d45273" />
