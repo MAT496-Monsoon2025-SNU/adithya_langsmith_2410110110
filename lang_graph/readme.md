@@ -130,3 +130,6 @@ i added a new cell in the middle to show that the arithmetic tools run but the l
 i also added a cell at the end and in the studio part i ran the temperature one and asked the question to the llm, one directly to the assistant tool and one to the temperature tool.he follwing pic of the studio is below 
 
 <img width="1507" height="978" alt="image" src="https://github.com/user-attachments/assets/b349500c-6a40-46ec-bf6a-c6c370d45273" />
+
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/breakpoints.ipynb
+tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/vid2/breakpoints.ipynb
