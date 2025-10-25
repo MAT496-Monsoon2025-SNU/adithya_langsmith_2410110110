@@ -138,8 +138,7 @@ tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110
 
 vid3: edit-state-human-feedback
 
-learnt:
-i learnt that interrupt_before basically lets us rewrite or change the input before a node runs, so we can control the flow and modify what the agent will see. i also learnt how to give human feedback after a breakpoint, and how the checkpointer is used to save and restore graph state.
+learnt:i learnt that interrupt_before basically lets us rewrite or change the input before a node runs, so we can control the flow and modify what the agent will see. i also learnt how to give human feedback after a breakpoint, and how the checkpointer is used to save and restore graph state.
 
 changes:i added an interrupt_before in front of the tools node to observe what happens. i created a graph that includes interrupt_after for tools and executed it to compare behavior. i also added a new cell that runs the modified graph and explained what the cell does. i included the graph adn the cell image so it is to revie it ;).out of curiosity, in the studio, i created the temperature graph and added an interrupt_before to the assistant node and interrupt_after to both the tools and temperature nodes. i also added interrupt_before to the tools and temperature nodes to check all possible combinations and observe their behavior.
 <img width="340" height="350" alt="image" src="https://github.com/user-attachments/assets/d515aa3e-fe2b-4fe1-a924-c33e4beed305" />
@@ -150,6 +149,14 @@ heres the pic of studio graph i added interrupts ith output.
 source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/edit-state-human-feedback.ipynb
 tweaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/edit-state-human-feedback.ipynb
 
+**vid4: dynamic breaking point**
 
+learnt:i learnt that this breaking point is not like interrupt before or interrupt after. it works more like a limit when something crosses that limit it stops the process. this is useful for saving tokens and controlling execution in our code. also to use this in the studio we need to update the studio code itself while interrupt before or after can be directly changed in langsith.
 
+changes:i added one more interruption in node 1 to check if the input is greater than 7. i also changed the length check in node 2 to 4. then i added a new cell because if we are interrupting twice we need to change our input twice when it crosses both thresholds 4 and 7. i even applied the same change to the studio code of the breaking point and deployed it in langsith to check if it is working.
+
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
+teaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/dynamic-breakpoints.ipynb
+
+<img width="1511" height="789" alt="image" src="https://github.com/user-attachments/assets/ee4d3f76-a880-46a9-88f5-75d9de7e1ffb" />
 
