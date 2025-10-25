@@ -125,6 +125,7 @@ new graph created by me in studio
 video 2: breaking point
 
 learnt:i learnt how a breaking point works and how we can use it. i also learnt how to add a new tool, how to add the breaking point to it, and how to use the breaking point from the studio manually using the code.
+
 changes made:i added new logical tools which show true or false. i shifted the breaking point to these new tools named logical tools.
 i added a new cell in the middle to show that the arithmetic tools run but the logical ones do not run until we manually make them run.
 i also added a cell at the end and in the studio part i ran the temperature one and asked the question to the llm, one directly to the assistant tool and one to the temperature tool.he follwing pic of the studio is below 
@@ -159,4 +160,19 @@ source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3
 teaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/dynamic-breakpoints.ipynb
 
 <img width="1511" height="789" alt="image" src="https://github.com/user-attachments/assets/ee4d3f76-a880-46a9-88f5-75d9de7e1ffb" />
+
+
+vid5:time travel
+learnt:
+i learnt how to debug by forking through code. before i was doing it in studio, but now i learned to do it through hardcoding. i also learnt how to replay and how to check all the states in the graph.
+
+changes:
+i updated the graph and made my own graph where we calculate the temperature. then i made a new thread so it doesn’t get mixed up. then i updated the cell where we can see all the states. for example, there were 5 states present initially giving us output, showing what each state is doing. after forking, there were 13 states, and i made it print all 13 states. in studio, i passed the updated graph with me and did the same thing, passing the updated graph from studio.
+
+source code:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/time-travel.ipynb
+teaked code:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module3/time-travel.ipynb
+studio graph
+he was using the same graph through out the module so i used my graph 
+<img width="844" height="644" alt="image" src="https://github.com/user-attachments/assets/1be0fe79-d61a-4369-b750-45a3badb9560" />
+
 
