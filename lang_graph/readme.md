@@ -111,7 +111,7 @@
 **Learned:** Learned how trimming and filtering messages can help generate a summary of our conversation, allowing us to continue later and pick up exactly where we left off.  
 **Changes:** Modified the State schema by changing summary from str to int, and implemented arithmetic conversation logic instead of normal chat.(I observed that when I removed the previous input (which was a normal conversation), the AI correctly added the arithmetic messages. However, the summary still remembered the old default conversation from the source code. Even after removing the old messages and adding new ones, the summary retained the old conversation while also including the new arithmetic inputs)  
 **source code:** https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb  
-**tweaked code:** https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/multiple-schemas.ipynb  
+**tweaked code:** https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module2/chatbot-summarization.ipynb 
 
 ---
 
