@@ -192,3 +192,13 @@ i updated the graph and made my own graph where we calculate the temperature. th
 **studio graph**  
 he was using the same graph through out the module so i used my graph  
 <img width="844" height="644" alt="image" src="https://github.com/user-attachments/assets/1be0fe79-d61a-4369-b750-45a3badb9560" />
+
+---
+## MODULE 4
+### **vid1 : parallelization:**
+**learnt**:i learnt that hat is parallelization and how it works and how does it gets tarnsversal if there are nodes that are pointing to other nodes or have sub nodes.
+**changes**i created two cyclic graphs one where only a single node output was executed and another where the outputs of multiple nodes were stored i wanted to observe how long the execution would continue and whether it would run endlessly i also modified a node to point to another node to see which node path would reach the end for each change i added a new cell in the studio i asked for the price of an object and tested whether it could remember my previous input since no memory component was included it did not remember my code and here is the picture of the studio with my inputs.
+**studio graph**
+<img width="1414" height="1037" alt="image" src="https://github.com/user-attachments/assets/ffebfda1-6780-40e3-9506-fcedec6513ba" />
+**source code:** https://github.com/langchain-ai/langchain-academy/blob/main/module-4/parallelization.ipynb
+**teaked code:** https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/parallelization.ipynb
