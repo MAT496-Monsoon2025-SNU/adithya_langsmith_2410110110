@@ -1,5 +1,5 @@
 # ADITHYA CHIGULLAPALLY 2410110110  
-## LANG GRANPH  
+## LANG GRAPH  
 
 ---
 
@@ -194,6 +194,7 @@ he was using the same graph through out the module so i used my graph
 <img width="844" height="644" alt="image" src="https://github.com/user-attachments/assets/1be0fe79-d61a-4369-b750-45a3badb9560" />
 
 ---
+
 ## MODULE 4
 ### **vid1 : parallelization:**
 **learnt**:i learnt that hat is parallelization and how it works and how does it gets tarnsversal if there are nodes that are pointing to other nodes or have sub nodes.
@@ -202,3 +203,11 @@ he was using the same graph through out the module so i used my graph
 <img width="1414" height="1037" alt="image" src="https://github.com/user-attachments/assets/ffebfda1-6780-40e3-9506-fcedec6513ba" />
 **source code:** https://github.com/langchain-ai/langchain-academy/blob/main/module-4/parallelization.ipynb
 **teaked code:** https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/parallelization.ipynb
+
+---
+
+### **vid2: sub graph:**
+**learnt**: i learnt how we can create sub graphs in a graph ,how to handle the state which i learnt in module 2 of this course and how to pass different kinds of state to do different tasks 
+**changes**: i created another sub graph which takes the input from both the graph from the failure analysis and the summarization graph it generates a final small summary of the output these two graphs gave as output
+**source code**:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub-graph.ipynb
+**tweaked code**:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/sub-graph.ipynb
