@@ -211,3 +211,11 @@ he was using the same graph through out the module so i used my graph
 **changes**: i created another sub graph which takes the input from both the graph from the failure analysis and the summarization graph it generates a final small summary of the output these two graphs gave as output
 **source code**:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub-graph.ipynb
 **tweaked code**:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/sub-graph.ipynb
+
+---
+
+### **vid3: map reducers:**
+**learnt**: i learnt how a job is split into smaller sections and how it is used. i also came across how to send a state of data even if it does not align with the overall state which is "send". i also learnt what "map" means in "map reducers".
+**changes**: i added a new prompt and changed the prompt from finding the best joke to finding the best job role which is high paying. i also added another prompt that tells which university is getting hired for that job role in particular.
+**tweaked code**:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/map-reduce.ipynb
+**source code**:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
