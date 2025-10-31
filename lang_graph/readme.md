@@ -219,3 +219,13 @@ he was using the same graph through out the module so i used my graph
 **changes**: i added a new prompt and changed the prompt from finding the best joke to finding the best job role which is high paying. i also added another prompt that tells which university is getting hired for that job role in particular.
 **tweaked code**:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/map-reduce.ipynb
 **source code**:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
+
+---
+
+### **vid4: research assistant:**
+**learnt**:
+this video was made by combining all the videos i have learnt in this module so far. i learnt more about web searching and how it can be done in parallel by creating a langgraph agent. the agent has three analysts and conducts an interview with an expert in a particular field, then generates an output by creating more subgraphs and summarizing the analysts insights.
+**changes**:
+i added the gender and marital status of each analyst and created a proper format for the llm to follow. the major change was adding that each interviewer has a different opinion and point of view, so they each generate three different summaries of the interview. we can then choose one summary and send it through the typing agent, which gives the final summarized output.
+**source code**:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/research-assistant.ipynb
+**tweakewd code**:https://github.com/MAT496-Monsoon2025-SNU/adithya_langsmith_2410110110/blob/main/lang_graph/module4/research-assistant.ipynb
